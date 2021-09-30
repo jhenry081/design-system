@@ -21,14 +21,16 @@ body {
   min-height: 100px;
 }
 
+.color-white {
+  color: #fff;
+}
+
 .bittersweet {
   background-color: #ff7260;
-  color: #fff;
 }
 
 .middle-blue-green {
   background-color: #9bd7d5;
-  color: #000;
 }
 
 .blond {
@@ -37,7 +39,6 @@ body {
 
 .davys-grey {
   background-color: #505050;
-  color: #fff;
 }
 
 .medium-torquiose {
@@ -46,7 +47,6 @@ body {
 
 .french-rose {
   background-color: #ed5485;
-  color: #fff;
 }
 
 .cream {
@@ -55,6 +55,38 @@ body {
 
 .corn {
   background-color: #ffe869;
+}
+
+.navy {
+  background-color: #0a192f;
+}
+
+.light-slate {
+  background-color: #112240;
+}
+
+.lightest-navy {
+  background-color: #233554;
+}
+
+.slate {
+  background-color: #8892b0;
+}
+
+.light-navy {
+  background-color: #a8b2d1;
+}
+
+.lightest-slate {
+  background-color: #ccd6f6;
+}
+
+.b-white {
+  background-color: #e6f1ff;
+}
+
+.b-green {
+  background-color: #64ffda;
 }
 
 .font-panel {
@@ -121,6 +153,22 @@ body {
 
 .martel-sans {
   font-family: "Martel Sans", sans-serif;
+}
+
+.inter {
+  font-family: 'Inter', sans-serif;
+}
+
+.fira-code {
+  font-family: 'Fira Code', monospace;
+}
+
+.fira-mono {
+  font-family: 'Fira Mono', monospace;
+}
+
+.roboto-mono {
+  font-family: 'Roboto Mono', monospace;
 }
 
 .text-panel h1 {
