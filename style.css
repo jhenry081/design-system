@@ -81,6 +81,46 @@ body {
   background-color: #ccd6f6;
 }
 
+.ny-pink {
+  background-color: #d67573;
+}
+
+.apricot {
+  background-color: #f6c6a9;
+}
+
+.champagne {
+  background-color: #f8e8cf;
+}
+
+.seashell {
+  background-color: #fdf5ee;
+}
+
+.granite-gray {
+  background-color: #67605f;
+}
+
+.blizzard-blue {
+  background-color: #99dedf;
+}
+
+.indian-red {
+  background-color: #e45865;
+}
+
+.orange-yellow-crayola {
+  background-color: #fcd06b;
+}
+
+.floral-white {
+  background-color: #f7f6ee;
+}
+
+.unbleached-silk {
+  background-color: #ffd4c4;
+}
+
 .b-white {
   background-color: #e6f1ff;
 }
@@ -156,19 +196,19 @@ body {
 }
 
 .inter {
-  font-family: 'Inter', sans-serif;
+  font-family: "Inter", sans-serif;
 }
 
 .fira-code {
-  font-family: 'Fira Code', monospace;
+  font-family: "Fira Code", monospace;
 }
 
 .fira-mono {
-  font-family: 'Fira Mono', monospace;
+  font-family: "Fira Mono", monospace;
 }
 
 .roboto-mono {
-  font-family: 'Roboto Mono', monospace;
+  font-family: "Roboto Mono", monospace;
 }
 
 .text-panel h1 {
