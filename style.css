@@ -121,6 +121,14 @@ body {
   background-color: #ffd4c4;
 }
 
+.binary-red {
+  background-color: #a10707;
+}
+
+.binary-blue {
+  background-color: #253c56;
+}
+
 .b-white {
   background-color: #e6f1ff;
 }
